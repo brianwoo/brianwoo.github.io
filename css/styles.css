@@ -1,0 +1,34 @@
+body {
+    margin: 25px;
+    color: #ffffff;
+    background-color: #563d7c;
+    font-family: "Montserrat", Times, serif;    
+}
+
+.bright-white-text {
+    color: #ffffff;
+}
+
+.secondary-white-text {
+    color: #cdbfe3;
+}
+
+a {
+    color: #ffffff !important;
+}
+
+a:link {
+    color: #ffffff !important;
+} 
+
+a.visited {
+    color: #ffffff !important;
+}
+
+a:active {
+    color: #ffffff !important;
+}
+
+a:hover {
+    color: #cdbfe3 !important;
+}
