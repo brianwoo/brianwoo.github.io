@@ -9,6 +9,11 @@ body {
     color: #ffffff;
 }
 
+.bold-white-text {
+    color: #ffffff;
+    font-weight: bold;
+}
+
 .secondary-white-text {
     color: #cdbfe3;
 }
